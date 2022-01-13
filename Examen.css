@@ -1,0 +1,30 @@
+
+/* 
+    Created on : 14 dic 2021, 12:50:31
+    Author     : user
+*/
+
+body{
+    font-family: calibri;
+    background-color: pink;
+}
+
+table {
+    border: solid black;
+    border-collapse: collapse;
+}
+
+.titulo {
+    background-color: #60b8ad;
+    font-size: 20px;
+}
+
+.tiempo {
+    background-color: #004e71;
+    color:white;
+}
+
+td {
+    width:200px;
+    padding: 8px;
+}
